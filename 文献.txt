@@ -1,0 +1,22 @@
+[1] Min W, Wang Z, Liu Y, et al. Large Scale Visual Food Recognition[J/OL]. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2023: 1-18.
+[2] Qiu J, Lo F P-W, Sun Y, et al. Mining Discriminative Food Regions for Accurate Food Recognition. arXiv, 2022(2022-07-08).
+[3] 王海燕, 张渺, 刘虎林, 等. 基于改进的ResNet网络的中餐图像识别方法[J]. 陕西科技大学学报, 2022, 40(1): 154-160.
+[4] 石杰. 基于深度学习的中餐菜品检测算法研究[D]. 杭州电子科技大学, 2022.
+[5] 闵巍庆, 刘林虎, 刘宇昕, 等. 食品图像识别方法综述[J]. 计算机学报, 2022, 45(3): 542-566.
+[6] 姜文静. 基于优化YOLOv4的中餐食物图像识别与应用研究[D]. 南昌大学, 2022.
+[7] Tahir G A, Loo C K. A Comprehensive Survey of Image-Based Food Recognition and Volume Estimation Methods for Dietary Assessment[J]. Healthcare, 2021, 9(12): 1676.
+[8] Liu C, Liang Y, Xue Y, et al. Food and Ingredient Joint Learning for Fine-Grained Recognition[J]. IEEE Transactions on Circuits and Systems for Video Technology, 2021, 31(6): 2480-2493.
+[9] 郝然. 基于深度学习的中餐图像识别的研究与应用[D]. 北京邮电大学, 2021.
+[10] 邓志良, 李磊. 基于改进残差网络的中式菜品识别模型[J]. 激光与光电子学进展, 2021, 58(6): 264-272.
+[11] 蔡芷薇. 基于多任务学习与注意力机制的食品识别模型研究[D]. 吉林大学, 2021.
+[12] Min W, Liu L, Wang Z, et al. ISIA Food-500: A Dataset for Large-Scale Food Recognition via Stacked Global-Local Attention Network[C]. Proceedings of the 28th ACM International Conference on Multimedia, Seattle WA USA, 2020: 393-401.
+[13] Kiourt C, Pavlidis G, Markantonatou S. Deep learning approaches in food Recognition. arXiv, 2020(2020-04-08).
+[14] 吴正东. 基于深度学习的中餐菜品图像分类算法研究[D]. 杭州电子科技大学, 2020.
+[15] 王晓朋. 精细粒度的菜品识别方法研究[D]. 电子科技大学, 2020.
+[16] Zhou L, Zhang C, Liu F, et al. Application of Deep Learning in Food: A Review[J]. Comprehensive Reviews in Food Science and Food Safety, 2019, 18(6): 1793-1811.
+[17] Termritthikun C, Muneesawang P, Kanprachar S. NU-InNet: Thai Food Image Recognition Using Convolutional Neural Networks on Smartphone[J]. 2019, 9(2).
+[18] 汪聪. 基于机器视觉的菜品智能识别技术研究[D]. 华南理工大学, 2019.
+[19] 苏国炀. 基于图像的中餐菜品分割与识别[D]. 浙江大学, 2019.
+[20] 厉溢成. 基于web的食品图像识别系统的设计与实现[D]. 武汉轻工大学, 2019.
+[21] Martinel N, Foresti G L, Micheloni C. Wide-Slice Residual Networks for Food Recognition[C]. 2018 IEEE Winter Conference on Applications of Computer Vision (WACV), Lake Tahoe, NV, 2018: 567-576.
+[22] 陈雅丽. 基于深度学习的菜品图像分类方法研究[D]. 电子科技大学, 2018.
